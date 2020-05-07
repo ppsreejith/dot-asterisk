@@ -1,5 +1,5 @@
 #+hugo_base_dir: ../
-#+date: <2020-05-07 Thu>
+#+date: <2019-06-01 Sat>
 #+hugo_tags: review black_swan taleb
 #+hugo_categories: book_review
 #+TITLE: Book Review The Tartar Steppe
