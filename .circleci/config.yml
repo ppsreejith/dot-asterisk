@@ -1,0 +1,13 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: cibuilds/hugo:latest
+    working_directory: ~/hugo
+    environment:
+      HUGO_BUILD_DIR: ~/hugo/public
+    steps:
+      # deploy hack
+      - run: ssh -o StrictHostKeyChecking=no circleci@ppsreejith.net "rm -rf /home/circleci/dot-asterisk.new && git clone git@github.com:ppsreejith/dot-asterisk.git /home/circleci/dot-asterisk.new"
+      - run: ssh -o StrictHostKeyChecking=no circleci@ppsreejith.net "cd /home/circleci/dot-asterisk.new && git submodule init && git submodule update --remote && rm -rf /home/circleci/temp && mkdir -p /home/circleci/temp && HUGO_ENV=production hugo -v -F --cacheDir /home/circleci/temp"
+      - run: ssh -o StrictHostKeyChecking=no circleci@ppsreejith.net "cd /home/circleci/ && rm -rf dot-asterisk.old && mv dot-asterisk dot-asterisk.old && mv dot-asterisk.new dot-asterisk;"
