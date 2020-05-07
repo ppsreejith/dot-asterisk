@@ -2,7 +2,7 @@
 #+date: <2018-10-27 Sat>
 #+hugo_tags: books review gaming
 #+hugo_categories: books
-#+Title: Book Review: Masters of Doom
+#+TITLE: Book Review: Masters of Doom
 
 * Review
   So, I recently read Masters of Doom by David Kushner and thought I'd post my book review here. I also hope to make this a regular thing.
