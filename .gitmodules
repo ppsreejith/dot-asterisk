@@ -1,0 +1,4 @@
+[submodule "themes/yinyang"]
+	path = themes/yinyang
+	url = https://github.com/ppsreejith/hugo-theme-yinyang
+	branch = master
