@@ -10,3 +10,7 @@ mainSections = ["posts"]
 [[params.socials]]
 name = "Github"
 link = "https://github.com/ppsreejith"
+
+[author]
+  name = "ppsreejith"
+  homepage = "https://ppsreejith.net/"
