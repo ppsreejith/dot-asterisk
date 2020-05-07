@@ -2,8 +2,8 @@
 title = "Book Review The Tartar Steppe"
 author = ["Sreejith Pp"]
 date = 2019-06-01T00:00:00+05:30
-tags = ["review", "black_swan", "taleb"]
-categories = ["book_review"]
+tags = ["books", "review", "taleb"]
+categories = ["books"]
 draft = false
 +++
 
