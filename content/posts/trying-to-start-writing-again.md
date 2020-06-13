@@ -1,7 +1,7 @@
 +++
 title = "On Writing Again"
 author = ["Sreejith Pp"]
-date = 2018-10-29T00:00:00+05:30
+date = 2020-06-13T00:00:00+05:30
 tags = ["meta", "goals", "writing"]
 categories = ["meta"]
 draft = false

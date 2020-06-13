@@ -1,5 +1,5 @@
 #+hugo_base_dir: ../
-#+date: <2018-10-29 Mon>
+#+date: <2020-06-13 Sat>
 #+hugo_tags: meta goals writing
 #+hugo_categories: meta
 #+TITLE: On Writing Again
