@@ -2,3 +2,8 @@
   A blog in Hugo
 * Build Status
   [[https://circleci.com/gh/ppsreejith/dot-asterisk/tree/master][https://circleci.com/gh/ppsreejith/dot-asterisk.svg?style=svg]]
+* Run
+  Use the following command to start a development server on port 1313. You need Hugo installed.
+  #+begin_src bash
+    hugo serve -D
+  #+end_src
