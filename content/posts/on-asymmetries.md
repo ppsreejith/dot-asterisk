@@ -9,7 +9,7 @@ draft = false
 
 Asymmetry: Lack of equivalence between parts of something; lack of symmetry.
 
-Reading Taleb has got me thinking about the asymmetries of daily life, their mathematical properties, and its consequences. For example: The asymmetry inherent in optionality (i.e.having the option but not the obligation) can be seen in choice of career. i.e. Some professions have much more exit options than other professions.
+Reading Taleb has got me thinking about the asymmetries of daily life, their mathematical properties, and its consequences. For example, the asymmetry inherent in optionality (i.e.having the option but not the obligation) can be seen in choice of career. i.e. Some professions have much more exit options than other professions (Ex: consulting, product management, sales, programming).
 
 This is also the basis of preferring trial and error in those domains where there exists asymmetry in the payoff function. i.e. In those cases where the costs of failing are low but the benefits of success are unbounded (Ex: startups, drug discovery, finding products etc). Thus recognizing this asymmetry implies optimizing for tinkering and iterating in these domains.
 
