@@ -1,6 +1,6 @@
 #+hugo_base_dir: ../
 #+date: <2020-06-14 Sun>
-#+hugo_tags: assymetries 
+#+hugo_tags: assymetries essay reality math
 #+hugo_categories: essay
 #+TITLE: On Asymmetries
 

@@ -2,7 +2,7 @@
 title = "On Asymmetries"
 author = ["Sreejith Pp"]
 date = 2020-06-14T00:00:00+05:30
-tags = ["assymetries"]
+tags = ["assymetries", "essay", "reality", "math"]
 categories = ["essay"]
 draft = false
 +++
