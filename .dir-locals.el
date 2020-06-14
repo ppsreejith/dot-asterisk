@@ -1,4 +1,5 @@
 (("org/" (org-mode (eval org-hugo-auto-export-mode)
+                   (org-confirm-babel-evaluate . nil)
                    (eval . (defun org-hugo--get-date (info fmt)
                              (or
                               (org-entry-get (point) "CLOSED")
