@@ -6,7 +6,7 @@
 
   Tinkering: Experimenting using trial and error, and feedback to create, improve, or fix something
  
-  Often, in reality, there exists an [[file:on-asymmetries.org][asymmetry]] in the payoff function between success and failure. In these situations, it makes sense to optimize to try as many viable options as possible in the shortest amount of time. Knowledge can help in removing infeasible options but /actually/ trying ideas out is often the only way of finding out what works in reality. Crucially, tinkering allows us the /option/ to throw away the error and continue
+  Often, in reality, there exists an [[file:on-asymmetries.org][asymmetry]] in the payoff function between success and failure. In these situations, it makes sense to optimize to try as many viable options as possible in the shortest amount of time. Knowledge can help in removing infeasible options but /actually/ trying ideas out is often the only way of finding out what works in reality. Crucially, tinkering allows us the /option/ to throw away the error and continue.
  
   Tinkering involves iteration which involves building something based on information gained through feedback. Some of the advantages of scrum and agile practices lies in how they allow us to tame complexity through aggressive tinkering. Sprints and MVPs can be seen as constructs to aid iteration and gain feedback. Iteration quality can be judged through the number of options being tried simultaneously as well as the cycle time i.e. the time needed to gain feedback as well as the time required to use this feedback to create the next iteration.
  
