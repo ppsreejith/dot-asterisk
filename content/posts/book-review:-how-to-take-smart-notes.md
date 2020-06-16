@@ -22,3 +22,5 @@ I found that as this knowledge base built up, I was able to form connections bet
 Finally, this process makes writing articles much easier. Picking and pulling a strand from a graph of interlinked ideas explained in your own words is much less imposing than staring at a blank page. You can focus on what you find most exciting, pull in needed content from the graph, and remove that which is not needed.
 
 The title doesn't do the book justice. Definitely a 5 star book for me.
+
+PS: I've been publishing my notes [here](https://notes.ppsreejith.net) for the last few months.
