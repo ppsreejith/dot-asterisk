@@ -17,4 +17,4 @@ It would be remiss not to mention one of the ways modern websites are fundamenta
 
 Finally, a technical note on how I run Dot Asterisk. This blog is set up using Hugo. I use Emacs and Org Mode to craft my posts which are then exported using the lovely [ox-hugo](https://ox-hugo.scripter.co/) package. This allows me the ability to control the exporting process to a large degree. As an example, I hacked around with my org export code to export my notes to [notes.ppsreejith.net](https://notes.ppsreejith.net) in the _exact_ way I want (I use [org-roam](https://github.com/org-roam/org-roam) for note taking). I've come to value this ability to fine-tune the exporting process. This process also allowed me to learn more about Hugo and Org Mode internals.
 
-Ah, many things to do. Too many priorities. I really hope I can try out other ways of expressions this year. Maybe I can find some time to clean up the design of this blog too.
+Ah, many things to do. Too many priorities. I really hope I can try out some of these ideas this year. Maybe I can find some time to clean up the design of this blog too.
