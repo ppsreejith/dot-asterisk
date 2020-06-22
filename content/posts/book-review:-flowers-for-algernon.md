@@ -21,6 +21,6 @@ Alas, we come to the last few days of this great mind, clawing at the intellectu
 
 From the success of the movie (Charly), the house episode (Ignorance is Bliss), and the Simpsons episode (HOMR), it's easy to see that this idea touched a societal nerve. Modern society is clearly fascinated by the nature of intelligence. Gwern calls intelligence an almost unalloyed good though he (like the book) uses IQ scores as a metric for intelligence.
 
-Personally, I don't agree with this model of intelligence (i.e. one based on a linear metric such as IQ; I think it does capture some dimension of it though). Like all complex animal and human traits, I do think that intelligence (which itself is hard to define) varies across individuals. I just think it's multi-dimensional and maybe [partially ordered](https://en.wikipedia.org/wiki/Partially%5Fordered%5Fset). Anyway, I definitely do not want to get into this argument on the internet :P.
+On a side note, I don't agree with this model of intelligence (i.e. one based on a linear metric such as IQ; I think it does capture some dimension of it though). Like all complex animal and human traits, I do think that intelligence (which itself is hard to define) varies across individuals. I just think it's multi-dimensional and maybe [partially ordered](https://en.wikipedia.org/wiki/Partially%5Fordered%5Fset). Anyway, I definitely do not want to get into this argument on the internet :P.
 
 The story itself is very moving and I read the whole book in one sitting. All in all, 5 stars.
