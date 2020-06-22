@@ -1,6 +1,6 @@
 #+hugo_base_dir: ../
 #+date: <2019-06-01 Sat>
-#+hugo_tags: books review biblical
+#+hugo_tags: books review biblical scifi
 #+hugo_categories: books
 #+TITLE: Book Review: Genesis
 
