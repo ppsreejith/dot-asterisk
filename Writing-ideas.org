@@ -1,0 +1,4 @@
+* About
+  Documenting the list of ideas I'd like to write about some day.
+* Ideas
+  - [ ] Morning routines #habit #variability
