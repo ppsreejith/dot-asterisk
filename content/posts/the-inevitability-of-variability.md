@@ -7,7 +7,7 @@ categories = ["essay"]
 draft = false
 +++
 
-More and more I've started to realize the inevitability and importance of the variability of life.
+I've come to accept the inevitability and necessity of variability in life and work.
 
 In [Fooled By Randomness](https://www.goodreads.com/book/show/38315.Fooled%5Fby%5FRandomness), Taleb argues that we should welcome randomness. Not try to suppress it. Though he argued from a different standpoint (i.e. embracing the serendipity of life), I've come to accept it coming from a different perspective though I do understand the serendipity argument having witnessed it in my own life.
 
