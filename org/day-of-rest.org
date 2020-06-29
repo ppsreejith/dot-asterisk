@@ -1,0 +1,13 @@
+#+hugo_base_dir: ../
+#+date: <2020-06-28 Sun>
+#+hugo_tags: personal rest
+#+hugo_categories: personal
+#+TITLE: Day of Rest
+
+  I realize that I need to take a day off at least once in a week.
+
+  My schedule used to be to work for 5 days a week, and then use the weekends for personal projects, hackathons, or to learn something else. But after reading the [[https://www.goodreads.com/en/book/show/95708][Now Habit]], I can relate to the procrastination the author talks about. In the book, the author argues that leisure is not optional. That it's not something that can be trained or habituated away. It's /essential/ for your body to take the time to enjoy leisure.
+
+  Combining this with [[file:black-and-white-barbells.org][black and white thinking]], my current strategy is to utilize my weekdays better through better time management. I've gotten some good results in the past on this through habits and keeping buffers to handle variability. The second idea is force myself to take a day of rest (Sunday) to rejuvenate.
+
+  Of course, forced holidays [[https://en.wikipedia.org/wiki/Shabbat][aren't a new idea]]. I'm primarily interested in how this will affect my mental state and productivity. I hope to write about these results in a future post.

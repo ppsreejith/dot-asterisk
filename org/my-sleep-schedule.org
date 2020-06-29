@@ -1,0 +1,17 @@
+#+hugo_base_dir: ../
+#+date: <2020-06-29 Mon>
+#+hugo_tags: rest sleep personal
+#+hugo_categories: personal
+#+TITLE: My Sleep Schedule
+
+  I've settled on a very weird sleep schedule over the last 3 months.
+
+  Currently, I sleep in 2 bouts. The first one lasts from 7 PM till midnight. The second one, from 5 to 7 AM. It fluctuates a fair bit (up to an hour). I set an alarm to wake up by 8 AM but I've never actually had to use it. I often wake up well before then.
+
+  It all started through playing online games with my friends. Since they live in different time-zones, the range of time we settled on required me be awake till 5 AM. As I had work to do from 11 AM the next day, I settled on sleeping from 5 to 9 AM and catching some shuteye in the evening. Eventually, it morphed into the current form though our gaming frequency has reduced significantly.
+
+  One of the problems with this sleep schedule is that I miss out on a lot of social events. However, Covid-19 had put a stop to that way before my sleep schedule changed. Another issue could be hidden health risks associated with this sleeping pattern though from what I could find online, bi-phasic sleep is pretty common and sleeping around sunset (like I do) is pretty normal historically.
+
+  However, there /are/ some positives. For one, it acts as a clear demarcation between work and personal time. When I wake up at midnight, I'm able to use this alone time to work on personal projects, study, or read. On the other hand, my mornings can be dedicated to work related stuff. This demarcation is doubly helpful as it comes at the end of a "long rest" in DnD parlance so I'm pretty refreshed when I start.
+
+  Of course, dealing with reality is messy and there are often days where I sleep at wildly different times. However, it helps that I'm always able to return to this sleeping schedule quickly. It's pretty robust to large changes. I see this as an interesting experiment I'm able to undertake because of the current global situation. I feel that sooner or later, I'll have to go back to a normal sleep schedule. Let's see how long this lasts.
