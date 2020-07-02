@@ -11,7 +11,7 @@ draft = false
 
 This was an internal engineering talk given by John Carmack at Facebook in 2015.
 
-Though the is by by John Carmack, I liked the gems dropped by Kent Beck who introduced him.
+Though the talk is by by John Carmack, I liked the gems dropped by Kent Beck who introduced him.
 
 -   "Sometimes, the best way to be smart is not to be smart at all"
 -   "Young developers don't understand how deeply great developers care"
@@ -30,4 +30,4 @@ On ideas, he says that, improvements by at least a factor of 4 are where things 
 
 Finally, he talks about how it's important to test out ideas. Having ideas and not busting them causes them to become pet ideas. That you will not be as harsh as necessary on them. Thus it's important to be _able_ to test out your ideas in the real world quickly.
 
-I found this talk _extremely_ interesting. Currently, this is the only video on his [YouTube channel](https://www.youtube.com/channel/UCTtZ908OWKkGNOYLwkWttRw). Let's hope he does more such talks.
+I found this talk _extremely_ interesting and enlightening. Currently, this is the only video on his [YouTube channel](https://www.youtube.com/channel/UCTtZ908OWKkGNOYLwkWttRw). Let's hope he does more such talks.
