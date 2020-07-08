@@ -21,7 +21,7 @@ One way it aims to fix communication issues is through ensuring daily communicat
 
 The only requirement is that everyone has to be active and engage. The idea is that these discussions can open up [asymmetric]({{< relref "on-asymmetries" >}}) opportunities to solve issues early. For example, your teammates listening in can offer suggestions, help unblock you, or catch issues early.
 
-Scrum aims to fix wrong direction issues through fast feedback. Scrum emphasizes putting out a working product fast. A tracer bullet so to speak. The [feedback]({{< relref "feedback-and-magic" >}}) that this generates can help guide future product [iterations]({{< relref "on-tinkering" >}}) so that we don't end up building the wrong product.
+Scrum aims to fix wrong-direction issues through fast feedback. It emphasizes putting out a working product fast. A tracer bullet so to speak. The [feedback]({{< relref "feedback-and-magic" >}}) that this generates can help guide future product [iterations]({{< relref "on-tinkering" >}}) so that we don't end up building the wrong product.
 
 To remove bottlenecks, Scrum emphasizes working in short sprints (usually 1-2 weeks). Teams fill their backlog with every task that they think should be done. Then, at the start of every sprint, they ruthlessly prioritize and pick tasks that can be completed in the current sprint[^fn:1]. At the end of the sprint, they evaluate what went well, what didn't, and what could be done to improve the process. This process [continuously removes]({{< relref "via-negativa" >}}) bottlenecks from a team's process.
 
