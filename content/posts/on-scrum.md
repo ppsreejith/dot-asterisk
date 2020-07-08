@@ -19,7 +19,7 @@ One way it aims to fix communication issues is through ensuring daily communicat
 -   What they are going to do
 -   What they are blocked by
 
-The only requirement is that everyone has to be active and engage. The idea is that these discussions can open up [asymmetric]({{< relref "on-asymmetries" >}}) opportunities to solve issues early. For example, your teammates listening in can offer suggestions, help unblock you, or catch issues early.
+The only requirement is that everyone has to be active and engage. The idea is that these discussions can open up [asymmetric]({{< relref "on-asymmetries" >}}) opportunities to solve issues early. i.e. The downside is a limited waste of time. The upside is that your teammates listening in can offer suggestions, help unblock you, or catch issues early.
 
 Scrum aims to fix wrong-direction issues through fast feedback. It emphasizes putting out a working product fast. A tracer bullet so to speak. The [feedback]({{< relref "feedback-and-magic" >}}) that this generates can help guide future product [iterations]({{< relref "on-tinkering" >}}) so that we don't end up building the wrong product.
 
