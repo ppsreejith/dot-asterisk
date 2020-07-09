@@ -2,4 +2,4 @@
   Documenting the list of ideas I'd like to write about some day.
 * Ideas
   - [X] Morning routines #habit #variability
-  - [ ] Pareto
+  - [X] Pareto
