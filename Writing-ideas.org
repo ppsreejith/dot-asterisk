@@ -3,3 +3,9 @@
 * Ideas
   - [X] Morning routines #habit #variability
   - [X] Pareto
+  - [ ] Motivation
+  - [ ] Collection of life strategies (Covid 19)
+  - [ ] Book review: So good they can't ignore you
+  - [ ] Book review: Faster better cheaper in the history of manufacturing
+  - [ ] Modern engineering
+  - [ ] Hackathon stack
