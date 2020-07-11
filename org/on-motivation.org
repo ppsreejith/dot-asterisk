@@ -1,7 +1,7 @@
 #+hugo_base_dir: ../
 #+date: <2020-07-10 Fri>
 #+hugo_tags: essay motivation goals personal
-#+hugo_categories: personal
+#+hugo_categories: essay
 #+TITLE: On Motivation
 
   A topic I've struggled with my whole life, motivation is the /reason/ we engage in any activity.
