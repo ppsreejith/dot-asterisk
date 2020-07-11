@@ -3,9 +3,13 @@
 * Ideas
   - [X] Morning routines #habit #variability
   - [X] Pareto
-  - [ ] Motivation
-  - [ ] Collection of life strategies (Covid 19)
+  - [X] Motivation
+  - [X] Collection of life strategies (Covid 19)
   - [ ] Book review: So good they can't ignore you
   - [ ] Book review: Faster better cheaper in the history of manufacturing
-  - [ ] Modern engineering
-  - [ ] Hackathon stack
+  - [ ] Modern engineering (Analysis, Breaking down complexity)
+  - [ ] Hackathon stack (Demo, Fast iterations, Templates, Fast feedback, Talking to those who matter)
+  - [ ] Shipping (Society caring)
+  - [ ] CAR model
+  - [ ] Dungeons and dragons (Hanging story, Pynorth, Roy-offgrid)
+  - [ ] Stupid projects
