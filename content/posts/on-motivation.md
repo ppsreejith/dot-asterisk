@@ -3,7 +3,7 @@ title = "On Motivation"
 author = ["Sreejith Pp"]
 date = 2020-07-10T00:00:00+05:30
 tags = ["essay", "motivation", "goals", "personal"]
-categories = ["personal"]
+categories = ["essay"]
 draft = false
 +++
 
