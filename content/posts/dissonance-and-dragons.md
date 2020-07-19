@@ -7,7 +7,7 @@ categories = ["meta"]
 draft = false
 +++
 
-Many moons ago, a friend and I started a [Dungeons and Dragons](https://en.wikipedia.org/wiki/Dungeons%5F%26%5FDragons) group in Bangalore. We got together a bunch of our friends for weekly evenings exploring the lands of dragons and men. I found that, in the game, the players displayed impressive dissonance between their words and actions. Often they would completely ignore the moral dimension of the game.
+Many moons ago, a friend and I started a [Dungeons and Dragons](https://en.wikipedia.org/wiki/Dungeons%5F%26%5FDragons) group in Bangalore. We got together a bunch of our friends for weekly evenings exploring the lands of dragons and men. I found that, in the game, the players displayed impressive dissonance between their words and actions. Often, morality would be tossed aside in pursuit of higher ideals.
 
 In one of our campaigns, our heroes got locked in a barn fighting a demon goat. After winning the gruesome battle, they suspected that they were set up. They angrily approached the farm owner and interrogated her. Finding out that she was innocent, our heroes pondered their next step. Still not fully convinced, they decided to forcibly take her teenage son, PyNorth along.
 
