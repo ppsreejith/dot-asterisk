@@ -9,7 +9,7 @@ draft = false
 
 I've lived most of my life blind to caste realities. I understand that this is a privilege not everyone shares.
 
-Recently, in Bangalore, I met someone who insisted on me telling them my caste name. To say I was surprised would be an understatement. I never knew that it mattered so much in 2020 urban India! Further complicating matters was the fact that I had no idea what exact caste I was. I ended up talking for an hour with my parents and doing my own research to find out this information.
+Recently, in Bangalore, I met someone who insisted on me telling them my caste name. To say I was surprised would be an understatement. I never knew that it mattered so much in 21st century urban India! Further complicating matters was the fact that I had no idea what exact caste I was. I ended up talking for an hour with my parents and doing my own research to find out this information.
 
 In the midst of this, I also read the book [Castes in India: Their Mechanism, Genesis and Development](https://www.goodreads.com/book/show/13397723-castes-in-india). In this book, Ambedkar proposes a theory for the origins and propagation of caste in India. This thesis states that caste is fundamentally about exclusion. That endogamy is caste and caste is endogamy. A social norm maintained through extreme punishment of violations.
 
