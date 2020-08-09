@@ -1,6 +1,6 @@
 #+hugo_base_dir: ../
 #+date: <2020-08-02 Sun>
-#+hugo_tags: essay mental-model
+#+hugo_tags: essay mental-model human-mental-model
 #+hugo_categories: essay
 #+TITLE: On Caste
 

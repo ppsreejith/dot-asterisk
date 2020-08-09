@@ -2,7 +2,7 @@
 title = "On Caste"
 author = ["Sreejith Pp"]
 date = 2020-08-02T00:00:00+05:30
-tags = ["essay", "mental-model"]
+tags = ["essay", "mental-model", "human-mental-model"]
 categories = ["essay"]
 draft = false
 +++

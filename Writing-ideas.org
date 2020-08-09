@@ -6,10 +6,10 @@
   - [X] Motivation
   - [X] Collection of life strategies (Covid 19)
   - [X] Dungeons and dragons (Hanging story, Pynorth, Roy-offgrid)
+  - [X] Shipping (Society caring)
   - [ ] Book review: So good they can't ignore you
   - [ ] Book review: Faster better cheaper in the history of manufacturing
   - [ ] Modern engineering (Analysis, Breaking down complexity)
   - [ ] Hackathon stack (Demo, Fast iterations, Templates, Fast feedback, Talking to those who matter)
-  - [ ] Shipping (Society caring)
   - [ ] CAR model
   - [ ] Stupid projects
