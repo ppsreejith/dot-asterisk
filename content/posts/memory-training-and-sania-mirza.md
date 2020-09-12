@@ -2,7 +2,7 @@
 title = "Memory Training and Sania Mirza"
 author = ["Sreejith Pp"]
 date = 2020-08-18T00:00:00+05:30
-tags = ["essay", "skills", "mental-model", "human-mental-model"]
+tags = ["essay", "skills", "mental-model", "human-mental-model", "memory"]
 categories = ["essay"]
 draft = false
 +++

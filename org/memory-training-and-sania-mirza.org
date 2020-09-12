@@ -1,6 +1,6 @@
 #+hugo_base_dir: ../
 #+date: <2020-08-18 Tue>
-#+hugo_tags: essay skills mental-model human-mental-model
+#+hugo_tags: essay skills mental-model human-mental-model memory
 #+hugo_categories: essay
 #+TITLE: Memory Training and Sania Mirza
 

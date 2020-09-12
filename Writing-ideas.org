@@ -13,3 +13,4 @@
   - [ ] Hackathon stack (Demo, Fast iterations, Templates, Fast feedback, Talking to those who matter)
   - [ ] CAR model
   - [ ] Stupid projects
+  - [ ] Interfaces
